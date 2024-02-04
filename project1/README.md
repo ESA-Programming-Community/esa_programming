@@ -2,7 +2,7 @@
 
 1.  **Clone the Repository, make a new branch and start coding:**
 
-- If you haven't done so already, follow the getting started guide here: https://github.com/ESA-Programming-Community/esa_programming.git
+- If you haven't done so already, follow the getting started guide here: https://github.com/ESA-Programming-Community/esa_programming?tab=readme-ov-file#getting-started
 
 ## Exercise 1
 
