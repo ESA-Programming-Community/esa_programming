@@ -59,7 +59,7 @@ We meet once a week for a 2-hour learning session (3pm -5pm). The schedule may i
 
    - Push your changes to the repository:
      ```bash
-     git push origin your-branch-name
+     git push --set-upstream origin your-branch-name
      ```
 
 7. **Review of Your Work:**
