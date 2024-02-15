@@ -26,7 +26,7 @@ We meet once a week for a 2-hour learning session (3pm -5pm). The schedule may i
 
    - Clone this repository to your local machine using the following command:
      ```bash
-     git clone https://github.com/ESA-Programming-Community/esa_programming.git
+     git clone https://github.com/ESA-Programming-Community/esa_programming.git && cd esa_programming
      ```
 
 2. **Navigate to the Project:**
