@@ -38,7 +38,7 @@ We meet once a week for a 2-hour learning session (3pm -5pm). The schedule may i
 
 3. **Create a Branch:**
 
-   - Create a new branch for your work (your-branch-name can be your username ):
+   - Create a new branch for your work (your-branch-name can be your username with name of the project eg: destinydinam-project1):
      ```bash
      git checkout -b your-branch-name
      ```
