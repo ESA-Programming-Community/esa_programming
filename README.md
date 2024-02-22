@@ -45,7 +45,7 @@ We meet once a week for a 2-hour learning session (3pm -5pm). The schedule may i
 
 4. **Start Coding:**
 
-   - Work on the exercises or projects assigned during the learning sessions.
+   - Open vscode and Work on the exercises or projects assigned during the learning sessions.
 
 5. **Commit Your Changes:**
 
