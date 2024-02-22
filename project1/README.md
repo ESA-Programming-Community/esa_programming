@@ -8,4 +8,5 @@
 
 This exercise is designed to help learners understand the basics of html. This includes things like most used tags like h1, figure, img, ul, table, address, dl and many more.
 
-- In this exercise, you are to build the home page of our website. The UI (user interface) design is in the **resources** folder. It is called **home-example.png**
+- In this exercise, you are to complete the home page of our website by adding the menu table.
+  Look for the comment **`<!-- ADD YOUR MENU TABLE HERE -->`** and write your html under it. The UI (user interface) design is in the **resources** folder. It is called **home-example.png**
