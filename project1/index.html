@@ -3,12 +3,13 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="index.css" />
     <title>Document</title>
   </head>
   <body>
     <nav>
       <h1>Welcome to the little Taco shop</h1>
-      <ul>
+      <ul class="nav-list">
         <li>
           <a href="#about">About LTS</a>
         </li>
@@ -26,7 +27,11 @@
 
     <main>
       <figure>
-        <img width="400" src="img/taco.png" alt="image of taco" />
+        <img src="img/taco.png" alt="image of taco" class="small-img" />
+        <figcaption>Tacos and a drink</figcaption>
+      </figure>
+      <figure>
+        <img src="img/taco.png" alt="image of taco" class="large-img" />
         <figcaption>Tacos and a drink</figcaption>
       </figure>
 
@@ -58,6 +63,56 @@
         <hr />
 
         <!-- ADD YOUR MENU TABLE HERE -->
+
+        <table>
+          <thead>
+            <tr>
+              <th colspan="3">Our Tacos</th>
+            </tr>
+            <tr>
+              <th>Tacos</th>
+              <th>Qty.</th>
+              <th>Price</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td></td>
+              <td>1</td>
+              <td>$1.50</td>
+            </tr>
+            <tr>
+              <td>Crunchy</td>
+              <td>2</td>
+              <td>$2.50</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>3</td>
+              <td>$3.25</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>1</td>
+              <td>$1.50</td>
+            </tr>
+            <tr>
+              <td>Soft</td>
+              <td>2</td>
+              <td>$2.50</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>3</td>
+              <td>$3.25</td>
+            </tr>
+
+            <tr>
+              <td colspan="2">Chips & Salsa</td>
+              <td>$2.00</td>
+            </tr>
+          </tbody>
+        </table>
       </section>
     </main>
 

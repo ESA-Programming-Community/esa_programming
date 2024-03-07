@@ -1,0 +1,23 @@
+a {
+  color: red;
+}
+
+.small-img {
+  width: 100px;
+  border-radius: 20px;
+  border: 10px solid yellow;
+}
+.large-img {
+  width: 300px;
+  border-radius: 20px;
+  border: 10px solid green;
+}
+
+ul {
+  list-style: none;
+}
+
+.nav-list {
+  display: flex;
+  gap: 20px;
+}
