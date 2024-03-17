@@ -1,0 +1,29 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 100vh;
+}
+
+nav {
+  /* border: 1px solid black; */
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav-item {
+  display: flex;
+  gap: 10px;
+}
+
+a {
+  text-decoration: none;
+}
+
+main {
+  /* border: 1px solid red; */
+}
+
+footer {
+  /* border: 1px solid green; */
+}
