@@ -120,6 +120,76 @@ footer {
   gap: 4px;
 }
 
+.experience {
+  margin: 0 auto;
+  padding: 4px 16px;
+  max-width: 700px;
+  overflow-x: scroll;
+  display: flex;
+  gap: 36px;
+  padding-bottom: 70px;
+  scrollbar-color: #ca8a04 #f1f1f1;
+}
+
+.ex-card {
+  text-align: center;
+  border: 1px solid #ca8a04;
+  min-width: 350px;
+  border-radius: 40px;
+}
+
+.shadow-inner {
+  box-shadow: inset 0 2px 4px 0 rgb(0 0 0 / 0.05);
+}
+
+.shadow-yellow-600 {
+  --tw-shadow-color: #ca8a04;
+  box-shadow: 0 1px 2px 0 rgb(202 138 4 / 1);
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+.skills {
+  display: flex;
+  align-items: center;
+  gap: 100px;
+  flex-wrap: wrap;
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.skill {
+  width: 100px;
+  height: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.skill > div {
+  width: 50px;
+  height: 50px;
+  border: 1px solid #000;
+  border-radius: 100%;
+  padding: 14px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+/* .skill > div:hover {
+  background: gray;
+  cursor: pointer;
+} */
+
+/* .skill-length {
+  position: absolute;
+  display: none;
+} */
+
 @media (max-width: 500px) {
   .about-img {
     min-width: 30%;
