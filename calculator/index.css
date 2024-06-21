@@ -16,6 +16,17 @@ body {
   height: 100px;
 }
 
+.screen-input{
+  height: 75%;
+  width: 100%;
+  background-color: transparent;
+  border: 2px solid white;
+  border-radius: 5px;
+  color: white;
+  font-size: 30px;
+  text-align: right;
+}
+
 .keys {
   width: 430px;
   display: flex;
