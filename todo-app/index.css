@@ -51,6 +51,7 @@ input {
   align-items: center;
   font-size: larger;
   justify-content: space-between;
+  margin: 10px 0;
 }
 
 .delete-btn {
